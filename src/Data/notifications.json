@@ -1,0 +1,59 @@
+[
+    {
+        "profile_pic": "https://img.freepik.com/premium-vector/vector-illustration-young-male-anime-manga-style-character_1257632-80.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name": "Mark Webber",
+        "notification_text": "react to your recent post",
+        "notification_about": "My first tournament today!",
+        "time": "1m ago",
+        "seen": "false"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/free-vector/smiling-girl-anime-character-poster_603843-3026.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Angela Gray",
+        "notification_text": "followed you",
+        "notification_about": "",
+        "time": "5m ago",
+        "seen": "false"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100258.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Jacob Thompson",
+        "notification_text": "has joined your group",
+        "notification_about": "Chess Club",
+        "time": "1 day ago",
+        "seen": "false"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/premium-vector/vector-drawing-attractive-young-man_1257632-129.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Rizky Hasanuddin",
+        "notification_text": "sent you a private message",
+        "notification_about": "",
+        "message" : "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+        "time": "5 days ago",
+        "seen": "true"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100243.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Kimberly Smith",
+        "notification_text": "commented on your picture",
+        "notification_about": "",
+        "time": "1 week ago",
+        "seen": "true"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100268.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Nathan Peterson",
+        "notification_text": "reacted to your recent post",
+        "notification_about": "5 end-game strategies to increase your win rate",
+        "time": "2 Weeks ago",
+        "seen": "true"
+    },
+    {
+        "profile_pic": "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100191.jpg?uid=R108859324&ga=GA1.1.1755840175.1722681340&semt=ais_hybrid",
+        "name" : "Anna Kim",
+        "notification_text": "left the group",
+        "notification_about": "",
+        "time": "2 weeks ago",
+        "seen": "true"
+    }
+]
